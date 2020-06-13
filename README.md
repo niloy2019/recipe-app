@@ -17,7 +17,7 @@
   This is an React Application which will show Recipes of Food Item that is  being searched on it 
   using "api.edamam.com" API. This App is resonsive to the Desktop as well as Mobile.
  
-## Visit : 
+## Hosting Link : 
    https://recipe-app-with-react.herokuapp.com/ 
 
 ## Images of the Project :
