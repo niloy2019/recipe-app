@@ -1,10 +1,10 @@
-# Banking Transaction System : 
+# Recipe-App : 
 
 ## Author Name : 
    Niloy Chakraborty
 
 ## Application Name : 
-   recipe-app
+   Recipe-App
 
 ## Objective : 
   To Make an Application that will show the Recipe of the selected Food.
@@ -15,7 +15,7 @@
        
 ## Description :
   This is an React Application which will show Recipes of Food Item that is  being searched on it 
-  using "api.edamam.com" API. This is App is resonsive to the Desktop as well as Mobile.
+  using "api.edamam.com" API. This App is resonsive to the Desktop as well as Mobile.
  
 ## Visit : 
    https://recipe-app-with-react.herokuapp.com/ 
